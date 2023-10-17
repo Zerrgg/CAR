@@ -1,0 +1,37 @@
+
+C
+java:S1121K".Extract the assignment out of this expression.(«›æ
+C
+java:S1121P".Extract the assignment out of this expression.(«›æ
+I
+java:S1121S".Extract the assignment out of this expression.(ğ•‡±şÿÿÿÿ
+{
+java:S1488F"`Immediately return this expression instead of assigning it to the temporary variable "maxSpeed".(ı÷ÇÇøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ß®‚ıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ê¢»¹ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¹ŞÂóøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ìš¨ïÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ºıù¨üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(àüŞ¿
+E	java:S106"+Replace this use of System.out by a logger.(ÿ€›Åşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÍˆÎÉıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÿÇáß
+E	java:S106"+Replace this use of System.out by a logger.(å‰ôıüÿÿÿÿ
+@	java:S106!"+Replace this use of System.out by a logger.(»ëïÙ
+E	java:S106""+Replace this use of System.out by a logger.(ÇïüŸşÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(ìÌ…šÿÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(Éæ«¼
+@	java:S106-"+Replace this use of System.out by a logger.(”‚ïÇ
+@	java:S106."+Replace this use of System.out by a logger.(¿ä¿Ë
+E	java:S1060"+Replace this use of System.out by a logger.(ô‡Õ‘ùÿÿÿÿ
+E	java:S106D"+Replace this use of System.out by a logger.(çÈ„Šıÿÿÿÿ
+E	java:S106J"+Replace this use of System.out by a logger.(æĞÑ©øÿÿÿÿ
+E	java:S106O"+Replace this use of System.out by a logger.(çÈß™øÿÿÿÿ
+E	java:S106R"+Replace this use of System.out by a logger.(…ƒÿıÿÿÿÿ
+@	java:S106X"+Replace this use of System.out by a logger.(ĞÓ›¦
+O
+java:S6126X"2Replace this String concatenation with Text block.(ĞÓ›¦8ŒÈõ³1
+4
+java:S2119u"Save and re-use this "Random".(§½¸¨
+B
+java:S2201Š"+The return value of "valueOf" must be used.(¹¹¤
