@@ -1,13 +1,13 @@
 package com.zzerrgg;
 
 public class Car implements Vehicle {
-    private double maxSpeed;
+    private int maxSpeed;
     private double acceleration;
     private int score;
-    private double kilometersTravelled;
+    private int kilometersTravelled;
     private int nitroLevel;
 
-    public Car(double maxSpeed, double acceleration, int score, int nitroLevel) {
+    public Car(int maxSpeed, double acceleration, int score, int nitroLevel) {
         this.maxSpeed = maxSpeed;
         this.acceleration = acceleration;
         this.score = score;
@@ -15,7 +15,7 @@ public class Car implements Vehicle {
     }
 
     @Override
-    public double getMaxSpeed() {
+    public int getMaxSpeed() {
         return maxSpeed;
     }
 
@@ -32,11 +32,11 @@ public class Car implements Vehicle {
         this.score = score;
     }
 
-    public double getKilometersTravelled() {
+    public int getKilometersTravelled() {
         return kilometersTravelled;
     }
 
-    public void setKilometersTravelled(double kilometersTravelled) {
+    public void setKilometersTravelled(int kilometersTravelled) {
         this.kilometersTravelled = kilometersTravelled;
     }
 

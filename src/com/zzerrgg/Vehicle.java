@@ -1,7 +1,7 @@
 package com.zzerrgg;
 
 public interface Vehicle {
-    double getMaxSpeed();
+    int getMaxSpeed();
 
     double getAcceleration();
 
