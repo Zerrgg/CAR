@@ -1,6 +1,9 @@
 package com.zzerrgg;
 
 public final class Constants {
+    private Constants() {
+    }
+
     static final int DISTANCE_FROM = 5;
     static final int DISTANCE_TO = 70;
     static final int SPEED_FROM = 75;

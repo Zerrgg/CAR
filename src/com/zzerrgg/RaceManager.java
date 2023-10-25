@@ -7,6 +7,8 @@ import static com.zzerrgg.Constants.*;
 public class RaceManager {
     RaceInformationManager informationManager = new RaceInformationManager();
 
+    Random random = new Random();
+
     public void startRace(Race race) {
         preparingForTheRace(race);
         System.out.println(RACE_START);
@@ -44,7 +46,7 @@ public class RaceManager {
 
     public int generateInt(int from, int to) {
         int diapason = to - from;
-        int offence = new Random().nextInt(diapason);
+        int offence = random.nextInt(diapason);
         return from + offence;
     }
 }

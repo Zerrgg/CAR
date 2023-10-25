@@ -62,12 +62,14 @@ public class Race {
     }
 
     private static void printFlag() {
-        System.out.println("_\n" +
-                "\\'-,,.\n" +
-                " \\    \\\n" +
-                "  \\-..,\\\n" +
-                "   \\\n" +
-                "    \\\n");
+        System.out.println("""
+                _
+                \\'-,,.\\
+                 \\     \\
+                  \\-..,.\\
+                   \\
+                    \\
+                    """);
     }
 
 }
